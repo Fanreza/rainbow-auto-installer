@@ -1,4 +1,4 @@
-# 1 Click Garap Rainbow Protocol
+# 1 Click Garap Rainbow Protocol ( Ubuntu 22 Version )
 
 > Created by [Brian](x.com/brianeedsleep), Make sure you have joined [Airdrop Sultan](< t.me/airdropsultanindonesia>) to get more
 
