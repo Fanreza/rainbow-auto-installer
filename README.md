@@ -9,7 +9,7 @@
 Untuk instalasi dengan satu perintah, gunakan perintah berikut di terminal:
 
 ```bash
-wget -O rainbow.sh https://raw.githubusercontent.com/Adefebrian/1-Click-Garap-Rainbow-Protocol-Node/main/rainbow.sh && chmod +x rainbow.sh && ./rainbow.sh
+wget -O rainbow.sh https://raw.githubusercontent.com/Fanreza/rainbow-auto-installer/main/rainbow.sh && chmod +x rainbow.sh && ./rainbow.sh
 ```
 
 ### English
@@ -17,7 +17,7 @@ wget -O rainbow.sh https://raw.githubusercontent.com/Adefebrian/1-Click-Garap-Ra
 For installation using a single command, use the following command in the terminal:
 
 ```bash
-wget -O rainbow.sh https://raw.githubusercontent.com/Adefebrian/1-Click-Garap-Rainbow-Protocol-Node/main/rainbow.sh && chmod +x rainbow.sh && ./rainbow.sh
+wget -O rainbow.sh https://raw.githubusercontent.com/Fanreza/rainbow-auto-installer/main/rainbow.sh && chmod +x rainbow.sh && ./rainbow.sh
 ```
 
 ## Verify Your Setup / Verifikasi Pengaturan Anda
