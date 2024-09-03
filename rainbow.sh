@@ -45,7 +45,12 @@ DOCKER_COMPOSE_FILE="docker-compose.yml"
 ENV_FILE=".env"
 
 apt-get update
-apt-get install -y docker.io docker-compose wget
+apt-get install -y docker.io wget
+
+# Install Docker Compose version 2
+DOCKER_COMPOSE_VERSION="2.20.2"
+wget https://github.com/docker/compose/releases/download/v$DOCKER_COMPOSE_VERSION/docker-compose-linux-x86_64 -O /usr/bin/docker-compose
+chmod +x /usr/bin/docker-compose
 
 mkdir -p $BITCOIN_CORE_DATA_DIR
 
